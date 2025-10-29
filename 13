@@ -48,3 +48,12 @@ n=Math.sqrt(a); m=Math.ceil(a); i=Math.floor(a);
 <input type="text" id="sqr"><br><br>
 <label><u><b>Ceil of the number</b></u></label><br>
 <input type="text" id="ceil"><br><br>
+ 
+
+
+
+<label><u><b>floor of the number</b></u></label><br>
+<input type="text" id="floor">
+</body>
+</html>
+
